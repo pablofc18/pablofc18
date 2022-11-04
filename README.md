@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pablofc18
 - 🌱 I’m currently studying in UPC-FIB
-- 📫 How to reach me on Instagram @pablofrancocrr
+- 📫 How to reach me pablofc18@gmail.com
 
 <!---
 pablofc18/pablofc18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
