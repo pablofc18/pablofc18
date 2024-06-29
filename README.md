@@ -9,7 +9,7 @@ Here are some of the projects I have participated in across various courses:
 ### Project 1: [HoneyFlow](https://github.com/pablofc18/Honeyflow)
 - **Course:** PTI (Proyecto de Tecnologías de la Información)
 - **Description:** A platform that leverages various honeypots created by the community, adapted in our own Docker containers. We expose these honeypots to detect and analyze attacks. Additionally, we use multiple Python scripts to perform attacks. The collected information is then displayed on a web application created with Flask. We also scalate the honeypots with Kubernetes.
-- **My Contributions:** I performed the attack scripts. Contributed to the development of the web and some other fucntions and scripts we needed to make everything work.
+- **My Contributions:** I performed the attack scripts, contributed to the development of the web and some other functions and scripts we needed to make everything work.
 
 ### Project 2: [Keyboard Designer](https://github.com/pablofc18/Keyboard-Designer-PROP-FIB)
 - **Course:** PROP (Proyectos de Programación)
