@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pablo Franco
-- 🧑‍🎓 I’m currently studying in UPC-FIB
+- 🧑‍🎓 BSc Computer Engineering UPC FIB
 - 📫 How to reach me pablofc18@gmail.com
 
 ---
