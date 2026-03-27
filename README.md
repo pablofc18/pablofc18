@@ -1,28 +1,69 @@
-- 👋 Hi, I’m Pablo Franco
-- 🧑‍🎓 BSc Computer Engineering UPC FIB
-- 📫 How to reach me pablofc18@gmail.com
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=700&lines=Hi+I'm+Pablo+Franco;Cloud+%26+Backend+Engineer;DevOps+Enthusiast;Always+Learning+🚀" />
+</p>
 
 ---
 
-## Projects:
-Here are some of the projects I have participated in across various courses:
+# 👋 About Me
 
-### Project 1: [TFG-PFC](https://github.com/pablofc18/TFG-PabloFC)
-- **Course:** TFG (Trabajo de Fin de Grado)
-- **Description:** In this repository we can find the additional material used for the creation of the project.
-- **My Contributions:** Everything is done by me.
+- 🧑‍🎓 BSc Computer Engineering @ UPC (FIB)
+- ☁️ Cloud & DevOps enthusiast
+- 🧠 AWS Certified AI & Cloud Practitioner
+- 🚀 Passionate about building scalable systems
 
-### Project 2: [HoneyFlow](https://github.com/pablofc18/Honeyflow)
-- **Course:** PTI (Proyecto de Tecnologías de la Información)
-- **Description:** A platform that leverages various honeypots created by the community, adapted in our own Docker containers. We expose these honeypots to detect and analyze attacks. Additionally, we use multiple Python scripts to perform attacks. The collected information is then displayed on a web application created with Flask. We also scalate the honeypots with Kubernetes.
-- **My Contributions:** I performed the attack scripts, contributed to the development of the web and some other functions and scripts we needed to make everything work.
+---
 
-### Project 3: [Keyboard Designer](https://github.com/pablofc18/Keyboard-Designer-PROP-FIB)
-- **Course:** PROP (Proyectos de Programación)
-- **Description:** Program coded in Java that designs the optimal keyboard layout for single-finger typing, based on given input.
-- **My Contributions:** I participated in the manipulation of input data, modifying it to fit our data structures. I also handled exceptions that could arise from various errors, and contributed to the development of several views for the program's graphical user interface.
+# 🛠️ Tech Stack
 
+<p align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-013220?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+</p>
+
+---
+
+# 🚀 What I'm Doing
+
+- ☁️ Working with cloud technologies & scalable architectures  
+- 🔍 Exploring cybersecurity and attack simulation  
+- ⚙️ Building backend systems and APIs  
+- 📚 Learning more about DevOps  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pablofc18&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablofc18&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 Currently Learning
+
+- Advanced cloud architectures  
+- Kubernetes orchestration
+- Terraform IaC
+- AI + Cloud integration  
+
+---
+
+# 🤝 Connect with me
+
+<p align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-franco-carrasco/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablofc18@gmail.com)
+
+</p>
 
 <!---
 pablofc18/pablofc18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
