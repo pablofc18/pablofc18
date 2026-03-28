@@ -19,11 +19,13 @@
 <p align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-013220?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
 </p>
 
@@ -31,10 +33,11 @@
 
 # 🚀 What I'm Doing
 
-- ☁️ Working with cloud technologies & scalable architectures  
-- 🔍 Exploring cybersecurity and attack simulation  
-- ⚙️ Building backend systems and APIs  
-- 📚 Learning more about DevOps  
+- ☁️ Working with cloud technologies & scalable architectures
+- 🤖 Building AI agents with AWS AgentCore and LLM-based systems
+- 🧠 Designing scalable AI workflows in cloud environments
+- 🔧 Building backend systems and APIs  
+- 🚀 Working with DevOps practices and CI/CD pipelines
 
 ---
 
@@ -48,10 +51,10 @@
 
 # 🧠 Currently Learning
 
-- Advanced cloud architectures  
-- Kubernetes orchestration
+- Advanced cloud architectures
+- Docker & Kubernetes orchestration
 - Terraform IaC
-- AI + Cloud integration  
+- AI + Cloud integration
 
 ---
 
