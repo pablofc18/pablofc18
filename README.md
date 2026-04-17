@@ -1,6 +1,6 @@
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=700&lines=Hi+I'm+Pablo+Franco;Cloud+%26+Backend+Engineer;DevOps+Enthusiast;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=700&lines=Hi+I'm+Pablo+Franco;Cloud+%26+Backend+Engineer;DevOps+Enthusiast;AI+Enthusiast;Always+Learning+🚀" />
 </p>
 
 ---
