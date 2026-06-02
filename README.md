@@ -54,7 +54,6 @@
 
 - Advanced cloud architectures
 - Docker & Kubernetes orchestration
-- Terraform IaC
 - AI + Cloud integration
 - Agentic AI
 - Rust
