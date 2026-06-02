@@ -57,6 +57,7 @@
 - Terraform IaC
 - AI + Cloud integration
 - Agentic AI
+- Rust
 
 ---
 
