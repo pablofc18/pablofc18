@@ -8,7 +8,7 @@
 # 👋 About Me
 
 - 🧑‍🎓 BSc Computer Engineering @ UPC (FIB)
-- ☁️ Cloud & DevOps enthusiast
+- ☁️ Cloud & DevOps engineer
 - 🧠 AWS Certified AI & Cloud Practitioner
 - 🚀 Passionate about building scalable systems
 
