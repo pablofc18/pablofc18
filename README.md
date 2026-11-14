@@ -30,7 +30,3 @@ Cloud & DevOps Engineer. I build cloud infrastructure, CI/CD pipelines and AI ag
 ### GitHub
 
 <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=pablofc18&theme=transparent&hide_border=true" />
-
-### Contact
-
-[LinkedIn](https://www.linkedin.com/in/pablo-franco-carrasco/) · [Email](mailto:pablofc18@gmail.com)
