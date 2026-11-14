@@ -1,75 +1,36 @@
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=700&lines=Hi+I'm+Pablo+Franco;Cloud+%26+DevOps+Engineer;AI+Enthusiast;Always+Learning+🚀" />
-</p>
+<img alt="Hi I'm Pablo Franco - Cloud & DevOps Engineer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2F81F7&vCenter=true&width=500&lines=Hi+I'm+Pablo+Franco;Cloud+Infrastructure+%26+AI" />
 
----
+Cloud & DevOps Engineer. I build cloud infrastructure, CI/CD pipelines and AI agents on AWS.
 
-# 👋 About Me
+- BSc Computer Engineering @ UPC (FIB)
+- AWS Certified Solutions Architect - Associate
+- Currently working on LLM-based agents
 
-- 🧑‍🎓 BSc Computer Engineering @ UPC (FIB)
-- ☁️ Cloud & DevOps engineer
-- 🧠 AWS Certified AI & Cloud Practitioner
-- 🚀 Passionate about building scalable systems
+### Projects
 
----
+- **[homelab-gitops](https://github.com/pablofc18/homelab-gitops)** - Kubernetes homelab managed with GitOps: ArgoCD, Helm, Traefik, Prometheus/Grafana and CI checks with GitHub Actions
+- **[osdoctor](https://github.com/pablofc18/osdoctor)** - A read-only CLI written in C23 and Rust that performs health checks on Arch Linux / Hyprland desktops, with a focus on Omarchy OS. Outputs JSON for scripting and automation.
+- **[TFG-PabloFC](https://github.com/pablofc18/TFG-PabloFC)** - Bachelor's thesis (supplementary material): migrating an app's authentication from Okta to Microsoft Entra ID, with a dual-run phase and Jenkins pipelines
 
-# 🛠️ Tech Stack
+### Tech
 
-<p align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AI](https://img.shields.io/badge/AI-412991?style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
----
+### GitHub
 
-# 🚀 What I'm Doing
+<img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=pablofc18&theme=transparent&hide_border=true" />
 
-- ☁️ Working with cloud technologies & scalable architectures
-- 🤖 Building AI agents with AWS AgentCore and LLM-based systems
-- 🧠 Designing scalable AI workflows in cloud environments
-- 🔧 Building backend systems and APIs  
-- 🚀 Working with DevOps practices and CI/CD pipelines
+### Contact
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablofc18&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🧠 Currently Learning
-
-- Advanced cloud architectures
-- Docker & Kubernetes orchestration
-- AI + Cloud integration
-- Agentic AI
-- Rust
-
----
-
-# 🤝 Connect with me
-
-<p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-franco-carrasco/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablofc18@gmail.com)
-
-</p>
-
-<!---
-pablofc18/pablofc18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[LinkedIn](https://www.linkedin.com/in/pablo-franco-carrasco/) · [Email](mailto:pablofc18@gmail.com)
