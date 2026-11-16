@@ -9,7 +9,7 @@ Cloud & DevOps Engineer. I build cloud infrastructure, CI/CD pipelines and AI ag
 ### Projects
 
 - **[homelab-gitops](https://github.com/pablofc18/homelab-gitops)** - Kubernetes homelab managed with GitOps: ArgoCD, Helm, Traefik, Prometheus/Grafana and CI checks with GitHub Actions
-- **[osdoctor](https://github.com/pablofc18/osdoctor)** - A read-only CLI written in C23 and Rust that performs health checks on Arch Linux / Hyprland desktops, with a focus on Omarchy OS. Outputs JSON for scripting and automation.
+- **[osdoctor](https://github.com/pablofc18/osdoctor)** - A read-only CLI written in Rust (initially in C23, see [tag](https://github.com/pablofc18/osdoctor/releases/tag/c-final)) that performs health checks on Arch Linux / Hyprland desktops, with a focus on Omarchy OS. Outputs JSON for scripting and automation.
 - **[TFG-PabloFC](https://github.com/pablofc18/TFG-PabloFC)** - Bachelor's thesis (supplementary material): migrating an app's authentication from Okta to Microsoft Entra ID, with a dual-run phase and Jenkins pipelines
 
 ### Tech
